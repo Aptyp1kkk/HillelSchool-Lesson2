@@ -42,7 +42,8 @@ from random import randint,randrange #генераторы случайных ч
 #      "Кепка",
 #     "Очки",
 #     "Кеды"]
-#print("Выбор из списка",random.choices(list, k=3))
+#print("Выбор из списка",random.choices(list, k=3))sample-команда делает рандомный выбор
+# без повоторений
 #
 #
 n = int(input())
